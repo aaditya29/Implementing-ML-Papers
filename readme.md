@@ -19,7 +19,8 @@ Machine learning papers often present novel algorithms, architectures, or techni
 
 (This section will be updated as new papers are implemented)
 
-1. [Paper Title 1](link-to-paper) - Brief description
+1. [A Six-Compartment Model for COVID-19 with Transmission Dynamics and Public Health Strategies
+   ](https://doi.org/10.1038/s41598-024-72487-9)
 2. [Paper Title 2](link-to-paper) - Brief description
 3. ...
 
