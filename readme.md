@@ -7,9 +7,7 @@ This repository contains implementations of various machine learning papers from
 - [Overview](#overview)
 - [Papers Implemented](#papers-implemented)
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
