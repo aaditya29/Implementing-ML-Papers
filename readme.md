@@ -34,33 +34,6 @@ Machine learning papers often present novel algorithms, architectures, or techni
    cd Implementing-ML-Papers
    ```
 
-## Project Structure
-
-The repository is organized as follows:
-
-```
-ml-papers-implementation/
-│
-├── paper1_name/
-│   ├── implementation.py
-│   ├── utils.py
-│   └── README.md
-│
-├── paper2_name/
-│   ├── implementation.py
-│   ├── utils.py
-│   └── README.md
-│
-├── tests/
-│
-├── .gitignore
-├── LICENSE
-├── README.md
-└── requirements.txt
-```
-
-Each paper implementation has its own directory containing the main implementation file, utility functions, and a README with specific details about the paper and implementation.
-
 ## Contributing
 
 Contributions are welcome! If you'd like to add an implementation of a paper or improve an existing one, please follow these steps:
