@@ -23,7 +23,6 @@ Machine learning papers often present novel algorithms, architectures, or techni
 3. [Canonicalizing Open Knowledge Bases](https://luisgalarraga.de/docs/km1298-galarraga.pdf)
 4. [Orthogonal Nonnegative Matrix Tri-Factorizations for Clustering](https://ranger.uta.edu/~chqding/papers/orthNMF.pdf)
 5. [Co-Clustering Triples from Open Information Extraction](https://dl.acm.org/doi/10.1145/3371158.3371183)
-6. [DICE: Distilling Classifier-Free Guidance into Text Embeddings(DICE)](https://arxiv.org/abs/2502.03726)
 
 ## Getting Started
 
