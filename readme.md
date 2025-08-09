@@ -23,7 +23,7 @@ Machine learning papers often present novel algorithms, architectures, or techni
 3. [Canonicalizing Open Knowledge Bases](https://luisgalarraga.de/docs/km1298-galarraga.pdf)
 4. [Orthogonal Nonnegative Matrix Tri-Factorizations for Clustering](https://ranger.uta.edu/~chqding/papers/orthNMF.pdf)
 5. [Co-Clustering Triples from Open Information Extraction](https://dl.acm.org/doi/10.1145/3371158.3371183)
-6. Consolidating Extracted Assertions for Numerical Facts
+6. [Consolidating Extracted Assertions for Numerical Facts](https://github.com/aaditya29/Implementing-ML-Papers/tree/main/6-Consolidating-Extracted-Assertions)
 
 ## Getting Started
 
