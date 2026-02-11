@@ -28,6 +28,7 @@ Machine learning papers often present novel algorithms, architectures, or techni
 8. [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 9. [DICE](https://aclanthology.org/2020.emnlp-main.384.pdf)
 10. [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks(RAG)](https://arxiv.org/abs/2005.11401)
+11. [ Language Models are Few-Shot Learners(GPT-3 PAPER)](https://github.com/aaditya29/Implementing-ML-Papers/blob/main/11-Language-Model-Few-Shot/Few-Shot-Learners.ipynb)
 
 ## Getting Started
 
